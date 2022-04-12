@@ -3,9 +3,9 @@
 #Never give up and believe in yourself that you are capable to conquer anything.
 
 ## Reminders
-1. *No Pain, No Gain
-2. *Stay Positive 
-3. *Welcome Criticism
+1. _No Pain, No Gain_
+2. _Stay Positive_
+3. _Welcome Criticism_
 
 ## Author: Rita Dewitt-Smith
 
