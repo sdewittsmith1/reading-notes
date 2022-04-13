@@ -6,9 +6,6 @@
 3. Visual Studio Code
 
 ##Things to consider when selecting Text Editors:
-*code completion
-*syntax highlighting
-*Extensions
-
-
-
+*code completion*
+*syntax highlighting*
+*Extensions*
