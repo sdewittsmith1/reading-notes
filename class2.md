@@ -1,12 +1,14 @@
-##This is What I learned from reading assignment 2
+###Day 2 Notes:
 
 ##Different type of Text editors:
 1. Brackets
 2. Notepad++
 3. Visual Studio Code
 
-##Things to consider when selecting Text Editos:
-**code completion
-**syntax highlighting
-**Extensions
+##Things to consider when selecting Text Editors:
+*code completion
+*syntax highlighting
+*Extensions
+
+
 
