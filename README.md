@@ -13,6 +13,6 @@
 
 ## Other Pages
 
-[This is the Link to Class2 Assignment] (class2.md)
+[This is the Link to Class2 Assignment](class2.md)
 
-[This is the Link to Class3 Assignment] (class3.md)
+[This is the Link to Class3 Assignment](class3.md)
